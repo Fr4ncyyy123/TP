@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TP_jar</output-path>
+    <root id="archive" name="TP.jar">
+      <element id="module-output" name="TP" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+name: TP
+version: '${project.version}'
+main: test.tp.TP
+api-version: '1.20'
+commands:
+  tp:
+    description: "Teletrasportati"
+    aliases: [teleport]
+  tphere:
+    description: "Teletrasporta un Player da te"
